@@ -11,7 +11,7 @@
 		$themeListZip->close();
 		// Read zip to videolist
 		readfile("../getThemeList/themeList.zip");
-		// Delete themelist for future themelist loading
+		// Delete zip for future themelist loading
 		unlink("../getThemeList/themeList.zip");
 	}
 	// If, for some reason creating the zip fails, send the user a message explaining what went wrong.
