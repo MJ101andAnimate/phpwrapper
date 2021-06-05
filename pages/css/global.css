@@ -6,7 +6,7 @@ this css has the general header/footer layout stuff
 general
 **/
 html, body {
-	background: #0c0c0c;
+	background: #101317;
 	color: #fff;
 	font: 16px/1.5 'Sailec', Arial, sans-serif;
 	width: 100%;
@@ -23,8 +23,8 @@ header
 **/
 header {
 	/* style */
-	background: linear-gradient(#2b2b2b, #141414);
-	box-shadow: 0px 1px 6px 0px #0000005c;
+	background: #0b0c0f;
+	box-shadow: 0 0 0 1px #ff0048, 5px 0 10px 0 #000;
 	color: #fff;
 	text-align: center;
 	flex-shrink: 0;
@@ -137,6 +137,9 @@ main content
 **/
 main {
 	padding: 20px 40px;
+}
+a {
+	color: #4d4daf;
 }
 
 /**

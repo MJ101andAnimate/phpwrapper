@@ -11,6 +11,13 @@ html, body {
 }
 
 /**
+main
+**/
+main {
+	padding: 0;
+}
+
+/**
 character page stuff
 **/
 #char_creator,
