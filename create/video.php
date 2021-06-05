@@ -1,20 +1,14 @@
 <html><head>
 		<script>
 			document.title='Video Editor',flashvars={"apiserver":"/","storePath":"https://localhost:4664/store/3a981f5cb2739137/<store>","isEmbed":1,"ctc":"go","ut":30,"bs":"default","appCode":"go","page":"","siteId":"go","lid":13,"isLogin":"Y","retut":1,"clientThemePath":"https://localhost:4664/static/ad44370a650793d9/<client_theme>","themeId":"custom","tlang":"en_US","presaveId":"m-146","goteam_draft_only":1,"isWide":1,"collab":0,"nextUrl":"../pages/html/list.html","tray":"custom"}
-		</script><title>Video Editor</title>
-		<script>
-			if(window.location.pathname == '/player' || window.location.pathname == '/go_full' || window.location.pathname == '/recordWindow') {
-				function hideHeader() {
-					document.getElementById("header").remove();
-				}
-			}
 		</script>
+		<title>Video Editor</title>
 		<link rel="stylesheet" type="text/css" href="/pages/css/modern-normalize.css">
 		<link rel="stylesheet" type="text/css" href="/pages/css/global.css">
 		<link rel="stylesheet" type="text/css" href="/pages/css/swf.css">
 	</head>
 	
-	<body onload="hideHeader()">
+	<body>
 	
 	
 		<main>

@@ -6,7 +6,7 @@
 	// Attempt to create zip
 	if ($createZip === TRUE) {
 		// Add themelist to zip file
-		$themeListZip->addFile("../themes/themelist.xml", "themelist.xml");
+		$themeListZip->addFile("../asset/themes/themelist.xml", "themelist.xml");
 		// Close zip
 		$themeListZip->close();
 		// Read zip to videolist
