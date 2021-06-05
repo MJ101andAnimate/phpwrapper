@@ -16,6 +16,6 @@
 	}
 	// If, for some reason creating the zip fails, send the user a message explaining what went wrong.
 	else {
-		echo "Could not create themelist zip. Please contact Wrapper support, assuming you're not in the 10,000s, and you're in the 2020s.";
+		echo "ERROR: Could not create themelist zip. Please contact Wrapper support, assuming you're not in the 10,000s, and you're in the 2020s.";
 	}
 ?>
