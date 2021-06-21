@@ -70,7 +70,7 @@
 </div>
 
 <div id="character_themes" style="display: none">
-	<h1="select-a-theme-for-your-character">Select a theme for your character</h1>
+	<h1 id="select-a-theme-for-your-character">Select a theme for your character</h1>
 
 	<h2 id="standard-themes">Standard themes</h2>
 	<div id="column1">
