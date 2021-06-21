@@ -1,7 +1,7 @@
 :: Starts up PHPWrapper
 :: Author: octanuary#6596
 :: License: GPLv3
-set PWRAP_VER=0.1.0
+set PWRAP_VER=0.1.1
 title PHPWrapper v%PWRAP_VER%
 
 :: Initialize (stop command spam, clean screen, make variables work, set to UTF-8)
