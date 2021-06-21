@@ -1,2 +1,3 @@
-octanuary - PHPWrapper
+Octanuary - PHPWrapper
 RegularSpark - Helping with theme xml loading
+Vyond - the themes and shit
